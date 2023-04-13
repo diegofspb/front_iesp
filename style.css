@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(32, 31, 82);
+    height: 700px;
+    width: 700px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    color: rgb(100, 130, 182);
+}
+
+h1{
+    background-color: aqua;
+    height: 60px;
+    margin-top: auto;
+    padding-top: 14px;
+}
+
+#texto{
+    color: aliceblue;
+    text-align: justify;
+    margin: 15px;
+}
+
+footer{
+    position: absolute;   
+    color: rgb(48, 61, 18);
+    text-align: center;
+    background-color: rgb(70, 137, 114);
+    height: 80px;
+    width: 700px;
+    margin-top: 80px;
+}
+
