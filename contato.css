@@ -1,6 +1,6 @@
 body{
     background-color: rgb(32, 31, 82);
-    height: 710px;
+    height: 510px;
     width: 700px;
     border: 1px solid white;
     margin: auto;
@@ -11,8 +11,8 @@ header{
     color: rgb(100, 130, 182);
 }
 
-h1{
-    background-color: aqua;
+h1{    
+    color: white;
     height: 60px;
     margin-top: auto;
     padding-top: 14px;
@@ -24,13 +24,7 @@ h1{
     margin: 15px;
 }
 
-footer{
-    position: absolute;   
-    color: rgb(48, 61, 18);
-    text-align: center;
-    background-color: rgb(70, 137, 114);
-    height: 90px;
-    width: 700px;
-    margin-top: 80px;
+form{
+    color: white;
 }
 
